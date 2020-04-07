@@ -26,52 +26,52 @@ li{
   float: left;
 }
 .main{
-  padding-top: 100px;
+  padding-top: 50px;
   padding-right: 80px;
   padding-left: 80px;
 }
 .copy-container h1{
-  font-size: 140px;
+  font-size: 80px;
 }
 .copy-container h2{
-  font-size: 60px;
+  font-size: 40px;
 }
 span{
   color:#ff4a4a;
 }
 .contents{
-  height: 500;
-  margin-top: 100px;
+  height: 300;
+  margin-top: 60px;
 }
 .section-title{
   font-size: 28px;
   border-bottom: 2px solid #dee7ec;
   padding-bottom: 15px;
-  margin-bottom: 50px;
+  margin-bottom: 30px;
 }
 .contents-item{
   float: left;
   margin-left: 40px;
 }
 .contents-item p{
-  font-size: 24px;
+  font-size: 20px;
   margin-top: 30px;
 }
 .footer{
   background-color: #2f5167;
   color: #fff;
-  height: 200px;
+  height: 100px;
 }
 .footer-logo{
   font-size: 32px;
-  padding-top: 40px;
+  padding-top: 20px;
   padding-left: 40px;
 }
 .footer-list{
   float: right;
-  padding-top: 40px;
+  padding-top: 20px;
   padding-right: 40px;
 }
 .footer-list li{
-  padding-bottom: 20px;
+  padding-bottom: 10px;
 }
