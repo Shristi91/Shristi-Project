@@ -39,3 +39,22 @@ li{
 span{
   color:#ff4a4a;
 }
+.contents{
+  height: 500;
+  margin-top: 100px;
+}
+.section-title{
+  font-size: 28px;
+  border-bottom: 2px solid #dee7ec;
+  padding-bottom: 15px;
+  margin-bottom: 50px;
+}
+.contents-item{
+  float: left;
+  margin-left: 40px;
+}
+.contents-item p{
+  font-size: 24px;
+  margin-top: 30px;
+}
+
