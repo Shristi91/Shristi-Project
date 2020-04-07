@@ -25,3 +25,17 @@ li{
 .header-list{
   float: left;
 }
+.main{
+  padding-top: 100px;
+  padding-right: 80px;
+  padding-left: 80px;
+}
+.copy-container h1{
+  font-size: 140px;
+}
+.copy-container h2{
+  font-size: 60px;
+}
+span{
+  color:#ff4a4a;
+}
